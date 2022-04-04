@@ -1,0 +1,47 @@
+body {
+    background-color:lightgreen;
+    color: midnightblue;
+
+    font-size: 20px;
+    font-weight: 600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.foto{
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: 12px 12px 18px olivedrab;
+}
+.info p{
+    color:mediumblue;
+    margin: 0%;
+    font-style:oblique;
+    letter-spacing: 1px;
+    padding: 10px;
+
+}
+
+.main {
+     max-width: 750px;
+     margin: auto;
+}
+
+.block {
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 6px;
+    margin: 10px;
+}
+
+.bcgrd-1{
+    background: darkkhaki;
+}
+
+.bcgrd-2{
+    background: rgb(177, 223, 109);
+
+}
+
+.bcgrd-3{
+    background: rgb(184, 162, 247);
+ 
+}
